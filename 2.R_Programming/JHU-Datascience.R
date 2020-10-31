@@ -34,7 +34,7 @@ x
 
 #Q11-20
 getwd()
-dataweek1<-read.csv("//Users/puran/Downloads/hw1_data.csv")
+dataweek1<-read.csv("//Users/puran/Downloads/Github/datasciencecoursera/2.R_Programming/hw1_data.csv")
 dataweek1[c(1,2),]
 dataweek1$Ozone#Extract the first 2 rows of the data frame 
 nrow(dataweek1)# compute the number of rows in a data frame
